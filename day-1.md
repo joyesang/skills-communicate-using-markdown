@@ -15,5 +15,5 @@
 1. Step 2
 1. Step 3
 
-[x] This task is complete
-[ ] This task in not complete
+- [x] This task is complete
+- [ ] This task in not complete
